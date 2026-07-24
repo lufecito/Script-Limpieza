@@ -2,7 +2,7 @@
 ==============================================================================
  Corporate Windows Cleanup
  Versión : 1.0
- Autor   : Luis Fontecilla / ChatGPT
+ Autor   : Luis Fontecilla
  Compatibilidad:
    - Windows 10
    - Windows 11
